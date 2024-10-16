@@ -1,0 +1,15 @@
+{
+  "Name": "The Monkey in the ECoG dataset.",
+  "BIDSVersion": "1.10.0",
+  "DatasetType": "raw",
+  "License": "CC0",
+  "Authors": [
+    "Zaid Zada",
+    "Sam Nastase",
+    "...",
+    "Uri Hasson"
+  ],
+  "Funding": [
+    "National Institute of Neuroscience Grant DPI.."
+  ]
+}
