@@ -1,15 +1,28 @@
 {
-  "Name": "The Monkey in the ECoG dataset.",
+  "Name": "The \"Podcast\" ECoG dataset for modeling neural activity during natural story listening",
   "BIDSVersion": "1.10.0",
   "DatasetType": "raw",
   "License": "CC0",
   "Authors": [
     "Zaid Zada",
-    "Sam Nastase",
-    "...",
+    "Samuel A. Nastase",
+    "Bobbi Aubrey",
+    "Itamar Jalon",
+    "Ariel Goldstein",
+    "Sebastian Michelmann",
+    "Haocheng Wang",
+    "Liat Hasenfratz",
+    "Werner Doyle",
+    "Daniel Friedman",
+    "Patricia Dugan",
+    "Lucia Melloni",
+    "Sasha Devore",
+    "Orrin Devinsky",
+    "Adeen Flinker",
     "Uri Hasson"
   ],
   "Funding": [
-    "National Institute of Neuroscience Grant DPI.."
+    "National Institutes of Health grant DP1HD091948",
+    "National Institutes of Health grant R01NS109367"
   ]
 }
