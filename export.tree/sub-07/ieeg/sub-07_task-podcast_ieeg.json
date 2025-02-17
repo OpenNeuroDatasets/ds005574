@@ -1,0 +1,17 @@
+{
+  "TaskName": "podcast",
+  "TaskDescription": "Passive listening to a 30 minute audio stimulus.",
+  "Instructions": "Listen to the story",
+  "InstitutionName": "New York University Grossman School of Medicine",
+  "InstitutionalDepartmentName": "Comprehensive Epilepsy Center",
+  "InstitutionAddress": "223 East 34th Street, New York, NY 10016",
+  "Manufacturer": "Natus Neurologics",
+  "ManufacturersModelName": "NicoletOne C64",
+  "ElectrodeManufacturer": "Ad-Tech",
+  "iEEGReference": "Two-contact subdural strip facing toward the skull",
+  "PowerLineFrequency": 60,
+  "RecordingType": "continuous",
+  "SoftwareFilters": "n/a",
+  "SamplingFrequency": 2048.0,
+  "RecordingDuration": 1799.99951171875
+}
