@@ -1,0 +1,125 @@
+﻿name	type	units	low_cutoff	high_cutoff	sampling_frequency	status	status_description
+G1	ECOG	n/a	n/a	n/a	512.0	bad	no localization
+G2	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G3	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G4	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G5	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G6	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G7	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G8	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G9	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G10	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G11	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G12	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G13	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G14	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G15	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G16	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G17	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G18	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G19	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G20	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G21	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G22	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G23	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G24	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G25	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G26	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G27	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G28	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G29	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G30	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G31	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G32	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G33	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G34	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G35	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G36	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G37	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G38	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G39	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G40	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G41	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G42	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G43	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G44	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G45	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G46	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G47	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G48	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G49	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G50	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G51	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G52	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G53	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G54	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G55	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G56	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G57	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G58	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G59	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G60	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G61	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G62	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G63	ECOG	n/a	n/a	n/a	512.0	good	n/a
+G64	ECOG	n/a	n/a	n/a	512.0	good	n/a
+AT1	ECOG	n/a	n/a	n/a	512.0	good	n/a
+AT2	ECOG	n/a	n/a	n/a	512.0	good	n/a
+AT3	ECOG	n/a	n/a	n/a	512.0	good	n/a
+AT4	ECOG	n/a	n/a	n/a	512.0	good	n/a
+MT1	ECOG	n/a	n/a	n/a	512.0	good	n/a
+MT2	ECOG	n/a	n/a	n/a	512.0	good	n/a
+MT3	ECOG	n/a	n/a	n/a	512.0	good	n/a
+MT4	ECOG	n/a	n/a	n/a	512.0	good	n/a
+PT1	ECOG	n/a	n/a	n/a	512.0	good	n/a
+PT2	ECOG	n/a	n/a	n/a	512.0	good	n/a
+PT3	ECOG	n/a	n/a	n/a	512.0	good	n/a
+PT4	ECOG	n/a	n/a	n/a	512.0	good	n/a
+OC1	ECOG	n/a	n/a	n/a	512.0	good	n/a
+OC2	ECOG	n/a	n/a	n/a	512.0	good	n/a
+OC3	ECOG	n/a	n/a	n/a	512.0	good	n/a
+OC4	ECOG	n/a	n/a	n/a	512.0	good	n/a
+OC5	ECOG	n/a	n/a	n/a	512.0	good	n/a
+OC6	ECOG	n/a	n/a	n/a	512.0	good	n/a
+OC7	ECOG	n/a	n/a	n/a	512.0	good	n/a
+OC8	ECOG	n/a	n/a	n/a	512.0	good	n/a
+FR1	ECOG	n/a	n/a	n/a	512.0	good	n/a
+FR2	ECOG	n/a	n/a	n/a	512.0	good	n/a
+FR3	ECOG	n/a	n/a	n/a	512.0	good	n/a
+FR4	ECOG	n/a	n/a	n/a	512.0	good	n/a
+DAMT1	ECOG	n/a	n/a	n/a	512.0	bad	noisy psd
+DAMT2	ECOG	n/a	n/a	n/a	512.0	good	n/a
+DAMT3	ECOG	n/a	n/a	n/a	512.0	good	n/a
+DAMT4	ECOG	n/a	n/a	n/a	512.0	good	n/a
+DAMT5	ECOG	n/a	n/a	n/a	512.0	good	n/a
+DAMT6	ECOG	n/a	n/a	n/a	512.0	good	n/a
+DAMT7	ECOG	n/a	n/a	n/a	512.0	good	n/a
+DAMT8	ECOG	n/a	n/a	n/a	512.0	good	n/a
+DPMT1	ECOG	n/a	n/a	n/a	512.0	good	n/a
+DPMT2	ECOG	n/a	n/a	n/a	512.0	good	n/a
+DPMT3	ECOG	n/a	n/a	n/a	512.0	good	n/a
+DPMT4	ECOG	n/a	n/a	n/a	512.0	bad	noisy psd
+DPMT5	ECOG	n/a	n/a	n/a	512.0	good	n/a
+DPMT6	ECOG	n/a	n/a	n/a	512.0	bad	noisy psd
+DPMT7	ECOG	n/a	n/a	n/a	512.0	bad	noisy psd
+DPMT8	ECOG	n/a	n/a	n/a	512.0	good	n/a
+SG1	ECOG	n/a	n/a	n/a	512.0	bad	no localization
+SG2	ECOG	n/a	n/a	n/a	512.0	bad	no localization
+SG3	ECOG	n/a	n/a	n/a	512.0	bad	no localization
+SG4	ECOG	n/a	n/a	n/a	512.0	bad	no localization
+SG5	ECOG	n/a	n/a	n/a	512.0	bad	no localization
+SG6	ECOG	n/a	n/a	n/a	512.0	bad	no localization
+EKG1	ECG	n/a	n/a	n/a	512.0	good	n/a
+EKG2	ECG	n/a	n/a	n/a	512.0	good	n/a
+DC1	MISC	n/a	n/a	n/a	512.0	good	n/a
+DC2	MISC	n/a	n/a	n/a	512.0	good	n/a
+DC3	MISC	n/a	n/a	n/a	512.0	good	n/a
+DC4	MISC	n/a	n/a	n/a	512.0	good	n/a
+DC5	MISC	n/a	n/a	n/a	512.0	good	n/a
+DC6	MISC	n/a	n/a	n/a	512.0	good	n/a
+DC7	MISC	n/a	n/a	n/a	512.0	good	n/a
+DC8	MISC	n/a	n/a	n/a	512.0	good	n/a
+DC9	MISC	n/a	n/a	n/a	512.0	good	n/a
+DC10	MISC	n/a	n/a	n/a	512.0	good	n/a
+DC11	MISC	n/a	n/a	n/a	512.0	good	n/a
+DC12	MISC	n/a	n/a	n/a	512.0	good	n/a

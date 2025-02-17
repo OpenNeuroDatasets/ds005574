@@ -1,0 +1,33 @@
+{
+    "Name": "The \"Podcast\" ECoG dataset",
+    "BIDSVersion": "1.10.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Zaid Zada",
+        "Samuel A. Nastase",
+        "Bobbi Aubrey",
+        "Itamar Jalon",
+        "Ariel Goldstein",
+        "Sebastian Michelmann",
+        "Haocheng Wang",
+        "Liat Hasenfratz",
+        "Werner Doyle",
+        "Daniel Friedman",
+        "Patricia Dugan",
+        "Lucia Melloni",
+        "Sasha Devore",
+        "Orrin Devinsky",
+        "Adeen Flinker",
+        "Uri Hasson"
+    ],
+    "Funding": [
+        "National Institutes of Health grant DP1HD091948",
+        "National Institutes of Health grant R01NS109367"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds005574.v1.0.1",
+    "ReferencesAndLinks": [
+        "https://hassonlab.github.io/podcast-ecog-tutorials",
+        "https://github.com/hassonlab/podcast-ecog-paper"
+    ]
+}
