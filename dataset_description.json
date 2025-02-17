@@ -25,5 +25,9 @@
         "National Institutes of Health grant DP1HD091948",
         "National Institutes of Health grant R01NS109367"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds005574.v1.0.0"
+    "DatasetDOI": "doi:10.18112/openneuro.ds005574.v1.0.0",
+    "ReferencesAndLinks": [
+        "https://hassonlab.github.io/podcast-ecog-tutorials",
+        "https://github.com/hassonlab/podcast-ecog-paper"
+    ]
 }
