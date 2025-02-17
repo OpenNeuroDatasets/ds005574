@@ -1,5 +1,5 @@
 {
-    "Name": "The \"Podcast\" ECoG dataset for modeling neural activity during natural story listening",
+    "Name": "The \"Podcast\" ECoG dataset",
     "BIDSVersion": "1.10.0",
     "DatasetType": "raw",
     "License": "CC0",
