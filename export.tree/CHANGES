@@ -1,0 +1,10 @@
+1.0.3 2026-11-10
+  - Set missing physical units (uV) for ECoG and ECG channels in sub-01 EDF header and channels.tsv (signal data unchanged)
+  - Add code/fix_sub01_units.py
+  - Remove code/pycache
+1.0.2 2025-02-17
+  - Remove old README.md
+1.0.1 2025-02-17
+  - Update README and metadata
+1.0.0 2025-01-08
+  - Initial upload

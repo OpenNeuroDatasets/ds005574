@@ -1,0 +1,92 @@
+﻿name	type	units	low_cutoff	high_cutoff	sampling_frequency	status	status_description
+G1	ECOG	uV	n/a	n/a	512.0	bad	no localization
+G2	ECOG	uV	n/a	n/a	512.0	good	n/a
+G3	ECOG	uV	n/a	n/a	512.0	good	n/a
+G4	ECOG	uV	n/a	n/a	512.0	good	n/a
+G5	ECOG	uV	n/a	n/a	512.0	good	n/a
+G6	ECOG	uV	n/a	n/a	512.0	good	n/a
+G7	ECOG	uV	n/a	n/a	512.0	good	n/a
+G8	ECOG	uV	n/a	n/a	512.0	good	n/a
+G9	ECOG	uV	n/a	n/a	512.0	good	n/a
+G10	ECOG	uV	n/a	n/a	512.0	good	n/a
+G11	ECOG	uV	n/a	n/a	512.0	good	n/a
+G12	ECOG	uV	n/a	n/a	512.0	good	n/a
+G13	ECOG	uV	n/a	n/a	512.0	good	n/a
+G14	ECOG	uV	n/a	n/a	512.0	good	n/a
+G15	ECOG	uV	n/a	n/a	512.0	good	n/a
+G16	ECOG	uV	n/a	n/a	512.0	good	n/a
+G17	ECOG	uV	n/a	n/a	512.0	good	n/a
+G18	ECOG	uV	n/a	n/a	512.0	good	n/a
+G19	ECOG	uV	n/a	n/a	512.0	good	n/a
+G20	ECOG	uV	n/a	n/a	512.0	good	n/a
+G21	ECOG	uV	n/a	n/a	512.0	good	n/a
+G22	ECOG	uV	n/a	n/a	512.0	good	n/a
+G23	ECOG	uV	n/a	n/a	512.0	good	n/a
+G24	ECOG	uV	n/a	n/a	512.0	good	n/a
+G25	ECOG	uV	n/a	n/a	512.0	good	n/a
+G26	ECOG	uV	n/a	n/a	512.0	good	n/a
+G27	ECOG	uV	n/a	n/a	512.0	good	n/a
+G28	ECOG	uV	n/a	n/a	512.0	good	n/a
+G29	ECOG	uV	n/a	n/a	512.0	good	n/a
+G30	ECOG	uV	n/a	n/a	512.0	good	n/a
+G31	ECOG	uV	n/a	n/a	512.0	good	n/a
+G32	ECOG	uV	n/a	n/a	512.0	good	n/a
+G33	ECOG	uV	n/a	n/a	512.0	good	n/a
+G34	ECOG	uV	n/a	n/a	512.0	good	n/a
+G35	ECOG	uV	n/a	n/a	512.0	good	n/a
+G36	ECOG	uV	n/a	n/a	512.0	good	n/a
+G37	ECOG	uV	n/a	n/a	512.0	good	n/a
+G38	ECOG	uV	n/a	n/a	512.0	good	n/a
+G39	ECOG	uV	n/a	n/a	512.0	good	n/a
+G40	ECOG	uV	n/a	n/a	512.0	good	n/a
+G41	ECOG	uV	n/a	n/a	512.0	good	n/a
+G42	ECOG	uV	n/a	n/a	512.0	bad	noisy psd
+G43	ECOG	uV	n/a	n/a	512.0	bad	noisy psd
+G44	ECOG	uV	n/a	n/a	512.0	good	n/a
+G45	ECOG	uV	n/a	n/a	512.0	good	n/a
+G46	ECOG	uV	n/a	n/a	512.0	good	n/a
+G47	ECOG	uV	n/a	n/a	512.0	good	n/a
+G48	ECOG	uV	n/a	n/a	512.0	good	n/a
+AT1	ECOG	uV	n/a	n/a	512.0	good	n/a
+AT2	ECOG	uV	n/a	n/a	512.0	good	n/a
+AT3	ECOG	uV	n/a	n/a	512.0	good	n/a
+AT4	ECOG	uV	n/a	n/a	512.0	good	n/a
+PT1	ECOG	uV	n/a	n/a	512.0	good	n/a
+PT2	ECOG	uV	n/a	n/a	512.0	good	n/a
+PT3	ECOG	uV	n/a	n/a	512.0	good	n/a
+PT4	ECOG	uV	n/a	n/a	512.0	good	n/a
+DAMT1	ECOG	uV	n/a	n/a	512.0	good	n/a
+DAMT2	ECOG	uV	n/a	n/a	512.0	good	n/a
+DAMT3	ECOG	uV	n/a	n/a	512.0	good	n/a
+DAMT4	ECOG	uV	n/a	n/a	512.0	good	n/a
+DPMT1	ECOG	uV	n/a	n/a	512.0	good	n/a
+DPMT2	ECOG	uV	n/a	n/a	512.0	good	n/a
+DPMT3	ECOG	uV	n/a	n/a	512.0	good	n/a
+DPMT4	ECOG	uV	n/a	n/a	512.0	good	n/a
+DPMT5	ECOG	uV	n/a	n/a	512.0	good	n/a
+DPMT6	ECOG	uV	n/a	n/a	512.0	good	n/a
+DPMT7	ECOG	uV	n/a	n/a	512.0	good	n/a
+DPMT8	ECOG	uV	n/a	n/a	512.0	good	n/a
+DAI1	ECOG	uV	n/a	n/a	512.0	good	n/a
+DAI2	ECOG	uV	n/a	n/a	512.0	good	n/a
+DAI3	ECOG	uV	n/a	n/a	512.0	good	n/a
+DAI4	ECOG	uV	n/a	n/a	512.0	good	n/a
+DPI1	ECOG	uV	n/a	n/a	512.0	good	n/a
+DPI2	ECOG	uV	n/a	n/a	512.0	good	n/a
+DPI3	ECOG	uV	n/a	n/a	512.0	good	n/a
+DPI4	ECOG	uV	n/a	n/a	512.0	bad	noisy psd
+SG1	ECOG	uV	n/a	n/a	512.0	bad	no localization
+SG2	ECOG	uV	n/a	n/a	512.0	bad	no localization
+SG3	ECOG	uV	n/a	n/a	512.0	bad	no localization
+SG4	ECOG	uV	n/a	n/a	512.0	bad	no localization
+SG5	ECOG	uV	n/a	n/a	512.0	bad	no localization
+SG6	ECOG	uV	n/a	n/a	512.0	bad	no localization
+EKGR	ECG	uV	n/a	n/a	512.0	good	n/a
+EKGL	ECG	uV	n/a	n/a	512.0	good	n/a
+DC1	MISC	uV	n/a	n/a	512.0	good	n/a
+DC2	MISC	uV	n/a	n/a	512.0	good	n/a
+DC3	MISC	uV	n/a	n/a	512.0	good	n/a
+DC4	MISC	uV	n/a	n/a	512.0	good	n/a
+DC5	MISC	uV	n/a	n/a	512.0	good	n/a
+DC6	MISC	uV	n/a	n/a	512.0	good	n/a
+DC7	MISC	uV	n/a	n/a	512.0	good	n/a
